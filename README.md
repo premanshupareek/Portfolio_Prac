@@ -1,4 +1,4 @@
-# Movie Trailer Website
+# Portfolio
 It contains source code to generate a static portfolio.
 
 ## Getting Started
